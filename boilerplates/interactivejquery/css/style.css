@@ -1,0 +1,26 @@
+#wrapper {
+  /*Flex*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column wrap;
+  align-content: center;
+}
+
+#header {
+  font-size: 1.5em;
+  color: black;
+  width: auto;
+}
+
+#content {
+  width: auto;
+}
+
+#footer {
+  width: auto;
+}
+
+.black-border {
+  border: 1px solid black;
+}
