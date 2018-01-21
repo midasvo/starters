@@ -1,0 +1,49 @@
+#wrapper {
+
+    justify-content: center;
+    align-items: center;
+}
+
+#wrapper > * {
+  padding: 10px;
+  flex: 1 100%;
+}
+
+#header {
+  font-size: 4em;
+  color: black;
+  align-self: center;
+
+}
+
+#header a {
+  color: black;
+
+}
+
+#footer {
+}
+
+#content {
+  align-self: center;
+
+width: 900px;
+  	align-items: center;
+}
+
+.html5-example {
+  background: lightgrey;
+  align-self: center;
+
+
+}
+
+pre {
+  margin: auto;
+  align-self: center;
+}
+
+
+body {
+  padding: 2em;
+}
